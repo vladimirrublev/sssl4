@@ -2,7 +2,7 @@
 ## Выполнил студент группы ББМО-02-23 
 ## Rublev Vladimir Sergeevich
 
-## Работа была выполнена на виртуальных машинах с образом Windows7 и Ubuntu 22.
+## Работа была выполнена на виртуальных машинах с образом Windows7 и Ubuntu.
 
 ### 1. Trend Micro XDR.
 ![image](https://github.com/vladimirrublev/sssl4/blob/main/screenshot/1.png).
