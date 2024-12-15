@@ -32,7 +32,7 @@
 ![image](https://github.com/vladimirrublev/sssl4/blob/main/screenshot/9.jpg)
 
 ### 10. Просмотр зависимостей 
-![image]()
+![image](https://github.com/vladimirrublev/sssl4/blob/main/screenshot/10.jpg)
 
 ### 11. Данные на главной странице с графиками.
 ![image](https://github.com/vladimirrublev/sssl4/blob/main/screenshot/11.jpg)
